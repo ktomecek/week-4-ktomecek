@@ -19,12 +19,13 @@ Run an instance of the Server program on a host
 Run an instance of the Client program on the same host
 
 ```
-```diff
-## -ATTENTION
-```
 
+## -ATTENTION
+
+```diff
 These applications are intended to be run on the same machine using the local loopback address.
 There are no provisions to specify an IP address.
+```
 
 ## Packages
 | Package       | Description                                    |
