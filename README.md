@@ -19,7 +19,7 @@ Run an instance of the Server program on a host
 Run an instance of the Client program on the same host
 
 ```
-```diff
+
 ## ```diff -ATTENTION ```
 
 These applications are intended to be run on the same machine using the local loopback address.
